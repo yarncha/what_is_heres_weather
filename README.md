@@ -6,7 +6,7 @@
 
 ## Example imgs
 - main page
-  - ![ong](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiAnt3E1d_iAhVsEqYKHbz_AJYQjRx6BAgBEAU&url=https%3A%2F%2Fchannels.vlive.tv%2FEF0205%2Fceleb%2F1.10235009&psig=AOvVaw3nsnss-cuoNW39oIeSXf3C&ust=1560281997017834 "osw")
+  - ![mainpage](https://raw.githubusercontent.com/yarncha/Team_19/master/ss_1.jpg "ss01")
 
 - loading
 
