@@ -135,13 +135,13 @@ export default class WeatherDetailScreen extends React.Component {
           </View>
           <View style={{flex: 1, backgroundColor: 'steelblue', flexDirection: 'row'}}>
 <View style={styles.temperatureContainer}>
-             <Text style={styles.white}>   {wind.toFixed(1)}</Text>
+             <Text style={styles.white}>{wind.toFixed(1)}m/s</Text>
             </View>
             <View style={styles.temperatureContainer}>
-              <Text style={styles.white}>   {humidity.toFixed(1)}</Text>
+              <Text style={styles.white}>{humidity.toFixed(1)}%</Text>
             </View>
             <View style={styles.temperatureContainer}>
-              <Text style={styles.white}>   {cloud.toFixed(1)}</Text>
+              <Text style={styles.white}>{cloud.toFixed(1)}%</Text>
             </View>
           </View>
         </View>
