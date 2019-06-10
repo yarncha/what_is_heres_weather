@@ -5,3 +5,8 @@
 - 어떤 부분을 구현했는지
 
 ## Example imgs
+- main page
+
+- loading
+
+- weather info page
