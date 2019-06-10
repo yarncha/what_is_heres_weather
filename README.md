@@ -6,10 +6,10 @@
 
 ## Example imgs
 - main page
-  - ![main page](https://raw.githubusercontent.com/yarncha/Team_19/master/ss_1.jpg "ss01")
+  - ![main page](https://raw.githubusercontent.com/yarncha/Team_19/master/ss_2.jpg "ss01")
 
 - loading
-  - ![loading](https://raw.githubusercontent.com/yarncha/Team_19/master/ss_2.jpg "ss02")
+  - ![loading](https://raw.githubusercontent.com/yarncha/Team_19/master/ss_3.jpg "ss02")
 
 - weather info page
-  - ![weather info page](https://raw.githubusercontent.com/yarncha/Team_19/master/ss_3.jpg "ss03")
+  - ![weather info page](https://raw.githubusercontent.com/yarncha/Team_19/master/ss_1.jpg "ss03")
